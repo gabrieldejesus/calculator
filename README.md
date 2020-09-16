@@ -1,15 +1,26 @@
-📚 Dedicated project to test what I'm learning with javascript.
+# Calculator
 
+> Dedicated project to test what I'm learning with javascript.
+
+A simple calculator made in javascript
+
+`Web preview`
 ![](assets/web-preview.png)
+
+## Deployment in
+
+https://devgabrieldejesus.github.io/calculator/
 
 ## Release history
 
+* 0.1.0
+    * Project finalized and studying the possibility of adding `new resources`
 * 0.0.1
     * Work in `progress`
 
 ## Meta
 
-Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+Gabriel de Jesus – (https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
 
 Distributed under the MIT License. See `LICENSE` for more information.
 

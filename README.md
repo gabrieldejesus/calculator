@@ -20,7 +20,7 @@ https://devgabrieldejesus.github.io/calculator/
 
 ## Meta
 
-Gabriel de Jesus – (https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+Gabriel de Jesus – (https://www.gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
 
 Distributed under the MIT License. See `LICENSE` for more information.
 

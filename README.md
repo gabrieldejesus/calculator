@@ -46,9 +46,6 @@ To run the project just run the file: `index.html`, type a text in the text area
 
 ## 🗃 Release history
 
-- 0.1.0
-  - Project finalized and studying the possibility of adding new resources
-  - The first suitable launch
 - 0.0.1
   - Work in progress
 

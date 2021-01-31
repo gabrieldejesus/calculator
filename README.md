@@ -2,7 +2,7 @@
 
 ➕ A simple calculator made in javascript.
 
-![](assets/web-preview.png)
+![](assets/cover.png)
 
 <p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=FF6F6F&labelColor=222222" />

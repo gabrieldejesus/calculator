@@ -1,0 +1,73 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #222;
+}
+
+.grid {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+}
+
+.grid > button {
+  cursor: pointer;
+  font-size: 2rem;
+  border: 2px solid #fff;
+  outline: none;
+  color: #fff;
+  font-weight: 700;
+  background-color: #ff6f6f;
+}
+
+.grid > button:hover {
+  background-color: #ff6f6fad;
+}
+
+.two {
+  grid-column: span 2;
+}
+
+.calculatorOutput {
+  grid-column: 1 / -1;
+  background-color: #2a2a2a;
+  border: 2px solid #fff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 10px;
+  word-wrap: break-word;
+  word-break: break-all;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.calculatorOutput .previousOperand {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 1.5rem;
+}
+
+.calculatorOutput .currentOperand {
+  color: white;
+  font-size: 2.5rem;
+}
+
+/* responsive */
+@media (max-width: 425px) {
+}
